@@ -1,0 +1,45 @@
+.site-logo {
+    display: block;
+}
+.site-nav {
+}
+.sitenav-list {
+    display: flex;
+    
+}
+.sitenav-item {
+    margin-right: 48px;
+}
+.sitenav-btn {
+    padding: 6px 22px ;
+    background: #12100c;
+    border-radius: 12px;
+    color: #f9f9f9;
+    font-size: 14px;
+    line-height: 20px;
+    display:flex;
+    justify-content:center ;
+    align-items: center;
+    border-radius: 12px;
+}
+
+.site-logo-img{
+    width: 131px;
+    height: 40px;
+}
+
+.site-header{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.sitenav-link{
+    color: rgba(18, 16, 12, 0.7);
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.sitenav-item:last-child{
+    margin-right: 0;
+}
